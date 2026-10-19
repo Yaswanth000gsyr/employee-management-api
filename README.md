@@ -140,8 +140,8 @@ The project uses the Maven Wrapper, so a separate Maven installation is not requ
 ### 1. Clone the repository
 
 ```bash
-git clone <YOUR_GITHUB_REPOSITORY_URL>
-cd employee-management
+git clone https://github.com/Yaswanth000gsyr/employee-management-api.git
+cd employee-management-api
 ```
 
 If the project is nested in another directory, navigate to the folder containing `pom.xml` and `mvnw.cmd`.
